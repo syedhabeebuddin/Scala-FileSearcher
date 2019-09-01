@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mE:\Learning\Scala\FileSearcher\src\test\scala\fileSearcher\MatcherTests.scala:44:81: too many arguments (4) for constructor Matcher: (filter: String, rootLocation: String, checkSubFolders: Boolean)fileSearcher.Matcher[0m
+[0m[[0m[31merror[0m] [0m[0m    val matcher= new Matcher("data",new File(".").getCanonicalPath(),false, Some("junglebook"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mE:\Learning\Scala\FileSearcher\src\test\scala\fileSearcher\MatcherTests.scala:53:78: too many arguments (4) for constructor Matcher: (filter: String, rootLocation: String, checkSubFolders: Boolean)fileSearcher.Matcher[0m
+[0m[[0m[31merror[0m] [0m[0m  val matcher= new Matcher("bat",new File(".").getCanonicalPath(),false, Some("comicbook"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,11 @@
+:q
+eclipse
+sbt
+:q
+eclipse
+test
+eclipse
+test
+~test
+doc
+git status
